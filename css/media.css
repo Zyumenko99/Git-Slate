@@ -34,6 +34,10 @@
     justify-content: center;
   }
 
+  .gallery__lists-bottom {
+    display: none;
+  }
+
 }
 
 @media (max-width: 700px) {
@@ -137,29 +141,44 @@
     margin-bottom: 75px;
   }
 
-
-  .gallery__lists-bottom {
+  .top1 {
     display: none;
   }
 
-  .gallery__items-top1 {
-    width: 329px;
+  .top2 {
+    display: none;
   }
 
-  .gallery__items-top2 {
+  .top3 {
+    display: none;
+  }
+
+  .top4 {
+    display: none;
+  }
+
+  .top1-500 {
+    display: block;
+    border-radius: 12px;
     width: 323px;
-    background-image: url("../img/card2-500.svg");
   }
 
-
-  .gallery__items-top3 {
-    width: 317px;
-    background-image: url("../img/card3-500.svg");
+  .top2-500 {
+    display: block;
+    border-radius: 12px;
+    width: 323px;
   }
 
-  .gallery__items-top4 {
-    width: 320px;
-    background-image: url("../img/card4-500.svg");
+  .top3-500 {
+    display: block;
+    border-radius: 12px;
+    width: 323px;
+  }
+
+  .top4-500 {
+    display: block;
+    border-radius: 12px;
+    width: 323px;
   }
 
   .partner__item-appstore {
