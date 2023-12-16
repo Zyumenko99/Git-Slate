@@ -128,15 +128,15 @@
     flex-direction: column;
   }
 
-  .footer-basic {
+  .basic {
     margin-right: 97px;
   }
 
-  .footer-resource {
+  .resource {
     margin-right: 97px;
   }
 
-  .footer-we {
+  .we {
     margin-right: 97px;
     margin-bottom: 75px;
   }
@@ -181,25 +181,28 @@
     width: 323px;
   }
 
-  .partner__item-appstore {
+  .partner__item-appstore svg {
     width: 60px;
   }
 
-  .partner__item-apiary {
-    width: 81px;
+  .partner__item-android svg {
+    width: 60px;
   }
 
-  .partner__item-basecamp {
-    width: 70px;
+  .partner__item-apiary svg {
+    width: 60px;
   }
 
-  .partner__item-iconmag {
+  .partner__item-basecamp svg {
+    width: 56px;
+  }
+
+  .partner__item-iconmag svg {
     width: 47px;
   }
 
-  .partner__item-ibm {
+  .partner__item-ibm  svg{
     width: 83px;
-    min-height: 33px;
   }
 
   .reviews__descr {
