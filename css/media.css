@@ -21,11 +21,13 @@
   }
 
   .possibility__item-right {
+    max-width: none;
     padding: 0;
     justify-content: center;
   }
 
   .chat-line {
+    top: 200px;
     right: 155px;
   }
 
@@ -88,11 +90,12 @@
   }
 
   .chat-bot {
-    max-width: 376px;
-    min-height: 406px;
+    max-width: 324px;
+    min-height: 319px;
   }
 
   .chat-line {
+    top: 200px;
     right: 50px;
     max-width: 232px;
     min-height: 160px;
