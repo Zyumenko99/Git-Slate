@@ -119,6 +119,10 @@
     max-width: 300px;
   }
 
+  .footer {
+    padding: 50px 70px;
+  }
+
   .footer__lists {
     flex-direction: column;
   }
@@ -201,16 +205,12 @@
     width: 47px;
   }
 
-  .partner__item-ibm  svg{
+  .partner__item-ibm svg {
     width: 83px;
   }
 
   .reviews__descr {
     max-width: 254px;
-  }
-
-  .footer {
-    padding-top: 50px;
   }
 
 }
