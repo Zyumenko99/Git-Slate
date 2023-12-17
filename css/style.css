@@ -846,7 +846,6 @@ section {
 .partner__item-appstore {
   max-width: 61px;
   min-height: 61px;
-  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
