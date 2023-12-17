@@ -51,7 +51,6 @@ section {
 
 body,
 html {
-  overflow-y: scroll;
   scroll-behavior: smooth;
   min-width: 320px;
   font-family: 'Graphik', sans-serif;
