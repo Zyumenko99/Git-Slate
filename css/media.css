@@ -15,22 +15,22 @@
   .possibility__list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .possibility__item-list {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 
   .possibility__item-right {
     max-width: none;
     padding: 0;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 
   .chat-line {
@@ -41,11 +41,11 @@
   .expansion__list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 
   .gallery__lists-bottom {
@@ -89,7 +89,7 @@
 
   .hero__list {
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     gap: 20px;
   }
 
@@ -142,18 +142,18 @@
   .footer__lists {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .footer__item-left {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .basic {
@@ -209,32 +209,124 @@
     width: 323px;
   }
 
-  .partner__item-appstore svg {
+  .partner__item-appstore {
     width: 60px;
   }
 
-  .partner__item-android svg {
+  .partner__item-android {
     width: 60px;
   }
 
-  .partner__item-apiary svg {
+  .partner__item-apiary {
     width: 60px;
   }
 
-  .partner__item-basecamp svg {
+  .partner__item-basecamp {
     width: 56px;
   }
 
-  .partner__item-iconmag svg {
+  .partner__item-iconmag {
     width: 47px;
   }
 
-  .partner__item-ibm svg {
+  .partner__item-ibm {
     width: 83px;
   }
 
   .reviews__descr {
     max-width: 254px;
+  }
+}
+
+@media (max-width: 350px) {
+
+  .section-offset {
+    padding-top: 30px;
+    padding-bottom: 0;
+  }
+
+  .header__logo {
+    max-width: 120px;
+  }
+
+  .header__btn {
+    padding: 10px 30px;
+  }
+
+  .hero__title {
+    font-size: 40px;
+  }
+
+  .hero__descr {
+    font-size: 15px;
+  }
+
+  .hero__btn-left {
+    font-size: 15px;
+  }
+
+  .hero__btn-right {
+    font-size: 15px;
+  }
+
+  .possibility__title {
+    font-size: 40px;
+  }
+
+  .possibility__descr {
+    font-size: 15px;
+  }
+
+  .expansion__title {
+    font-size: 40px;
+  }
+
+  .expansion__descr {
+    font-size: 15px;
+  }
+
+  .left-btn {
+    font-size: 13px;
+  }
+
+  .right-btn {
+    font-size: 13px;
+  }
+
+  .gallery__title {
+    font-size: 40px;
+  }
+
+  .gallery__descr {
+    font-size: 15px;
+  }
+
+  .partner__title {
+    font-size: 40px;
+  }
+
+  .partner__descr {
+    font-size: 15px;
+  }
+
+  .reviews__title {
+    font-size: 40px;
+  }
+
+  .reviews__descr {
+    font-size: 14px;
+  }
+
+  .footer {
+    padding: 20px 60px;
+  }
+
+  .footer__item-left {
+    gap: 40px;
+  }
+
+  .we {
+    margin-bottom: 45px;
   }
 
 }

@@ -844,146 +844,128 @@ section {
 }
 
 .partner__item-appstore {
-  outline: none;
-}
-
-.partner__item-appstore svg {
   max-width: 61px;
   min-height: 61px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-appstore:hover svg {
+.partner__item-appstore:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-appstore:focus-visible svg {
+.partner__item-appstore:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-appstore:active svg {
+.partner__item-appstore:active {
   outline: 1px solid var(--color-azure);
 }
 
 .partner__item-apiary {
-  outline: none;
-}
-
-.partner__item-apiary svg {
   max-width: 61px;
   min-height: 62px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-apiary:hover svg {
+.partner__item-apiary:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-apiary:focus-visible svg {
+.partner__item-apiary:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-apiary:active svg {
+.partner__item-apiary:active {
   outline: 1px solid var(--color-azure);
 }
 
 .partner__item-android {
-  outline: none;
-}
-
-.partner__item-android svg {
   max-width: 61px;
   min-height: 71px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-android:hover svg {
+.partner__item-android:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-android:focus-visible svg {
+.partner__item-android:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-android:active svg {
+.partner__item-android:active {
   outline: 1px solid var(--color-azure);
 }
 
 .partner__item-basecamp {
-  outline: none;
-}
-
-.partner__item-basecamp svg {
   max-width: 73px;
   min-height: 61px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-basecamp:hover svg {
+.partner__item-basecamp:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-basecamp:focus-visible svg {
+.partner__item-basecamp:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-basecamp:active svg {
+.partner__item-basecamp:active {
   outline: 1px solid var(--color-azure);
 }
 
 .partner__item-iconmag {
-  outline: none;
-}
-
-.partner__item-iconmag svg {
   max-width: 61px;
   min-height: 66px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-iconmag:hover svg {
+.partner__item-iconmag:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-iconmag:focus-visible svg {
+.partner__item-iconmag:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-iconmag:active svg {
+.partner__item-iconmag:active {
   outline: 1px solid var(--color-azure);
 }
 
 .partner__item-ibm {
-  outline: none;
-}
-
-.partner__item-ibm svg {
   max-width: 151px;
   min-height: 61px;
+  outline: none;
   -webkit-transition: outline 0.3s ease-in-out;
   -o-transition: outline 0.3s ease-in-out;
   transition: outline 0.3s ease-in-out;
 }
 
-.partner__item-ibm:hover svg {
+.partner__item-ibm:hover {
   outline: 1px solid var(--color-violet);
 }
 
-.partner__item-ibm:focus-visible svg {
+.partner__item-ibm:focus-visible {
   outline: 1px solid var(--color-blue);
 }
 
-.partner__item-ibm:active svg {
+.partner__item-ibm:active {
   outline: 1px solid var(--color-azure);
 }
 
