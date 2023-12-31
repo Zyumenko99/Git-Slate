@@ -34,7 +34,7 @@
   }
 
   .chat-line {
-    top: 200px;
+    bottom: -15px;
     right: 155px;
   }
 
@@ -114,10 +114,6 @@
     min-height: 160px;
   }
 
-  .expansion__item-right {
-    min-height: 500px;
-  }
-
   .expansion__descr {
     max-width: 421px;
   }
@@ -169,45 +165,6 @@
     margin-bottom: 75px;
   }
 
-  .top1 {
-    display: none;
-  }
-
-  .top2 {
-    display: none;
-  }
-
-  .top3 {
-    display: none;
-  }
-
-  .top4 {
-    display: none;
-  }
-
-  .top1-500 {
-    display: block;
-    border-radius: 12px;
-    width: 323px;
-  }
-
-  .top2-500 {
-    display: block;
-    border-radius: 12px;
-    width: 323px;
-  }
-
-  .top3-500 {
-    display: block;
-    border-radius: 12px;
-    width: 323px;
-  }
-
-  .top4-500 {
-    display: block;
-    border-radius: 12px;
-    width: 323px;
-  }
 
   .partner__item-appstore {
     width: 60px;
@@ -277,12 +234,20 @@
     font-size: 15px;
   }
 
+  .expansion__item-right {
+    min-height: 560px;
+  }
+
   .expansion__title {
     font-size: 40px;
   }
 
   .expansion__descr {
     font-size: 15px;
+  }
+
+  .img-macbook {
+    bottom: 0;
   }
 
   .left-btn {
